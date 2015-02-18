@@ -1,4 +1,4 @@
-// gulp
+// gulp stuff
 var gulp = require('gulp');
 
 // plugins
