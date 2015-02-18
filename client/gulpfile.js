@@ -1,7 +1,7 @@
 // gulp a
 var gulp = require('gulp');
 
-// plugins
+// plugins fjd j
 var connect = require('gulp-connect');
 var jshint = require('gulp-jshint');
 var uglify = require('gulp-uglify');
